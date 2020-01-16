@@ -1,0 +1,12 @@
+[submodule "node-express-realworld-example-app"]
+	path = node-express-realworld-example-app
+	url = https://github.com/nevrax/node-express-realworld-example-app.git
+	branch = master
+[submodule "react-redux-realworld-example-app"]
+	path = react-redux-realworld-example-app
+	url = https://github.com/nevrax/react-redux-realworld-example-app.git
+	branch = master
+[submodule "realworld-e2e-test"]
+	path = realworld-e2e-test
+	url = https://github.com/nevrax/realworld-e2e-test.git
+	branch = master
